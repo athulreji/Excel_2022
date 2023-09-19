@@ -1,6 +1,6 @@
 # Excel MEC 2022
 
-A new Flutter project.
+Official app of Excel MEC
 
 ## Demo
 
