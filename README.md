@@ -1,16 +1,12 @@
-# excel2022
+# Excel MEC 2022
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
+![image](https://github.com/athulreji/Excel_2022/assets/28696896/d61b9e63-3544-49f6-b421-6fbddb061ce6)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/athulreji/Excel_2022/assets/28696896/993af52f-5626-4dda-9ca0-4d272c919851)
+![image](https://github.com/athulreji/Excel_2022/assets/28696896/fe23ec84-82ad-4852-be4e-92c8b3f95663)
+![image](https://github.com/athulreji/Excel_2022/assets/28696896/dfb991a2-a001-4cfd-9601-b9cc2c455129)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
